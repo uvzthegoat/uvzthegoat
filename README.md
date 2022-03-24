@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm UVZ</h1>
+<h1 align="center">Hi 👋, I'm migato</h1>
 <h3 align="center">A passionate about development and security</h3>
 
 - 🔭 I’m currently working on **TikTok View Booster**
